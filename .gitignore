@@ -1,0 +1,4 @@
+node_modules/
+reglite-data/
+*.tgz
+.DS_Store
